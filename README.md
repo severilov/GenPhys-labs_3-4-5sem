@@ -7,7 +7,7 @@
 
 | Metrics         | Result         | Function                                        |
 | :-------------: | :------------: | ----------------------------------------------- |
-| Euclidean       | 0              | $\sqrt{\Sigma(x - y)^2}$                        |
+| Euclidean       | 0              | $$\sqrt{\Sigma(x - y)^2}$$                        |
 | Manhattan       | 0              | $\Sigma|x - y|$                                 |
 | Chebyshev       | 0              | $max(|x - y|)$                                  |
 | Minkowski       | 0              | $\Sigma(|x - y|^p)^(1/p)$                       |
