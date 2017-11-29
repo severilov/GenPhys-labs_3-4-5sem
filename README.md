@@ -5,3 +5,4 @@
 - [x]  [3.2.6](https://github.com/cardoholic/GenPhys-labs_3sem/blob/master/3.2.6/3.2.6.pdf) &mdash;  Исследование гальванометра 
 - [x]  [3.3.4](https://github.com/cardoholic/GenPhys-labs_3sem/blob/master/3.3.4/3.3.4.pdf) &mdash; Эффект Холла в полупроводниках
 - [ ] [3.4.5]() &mdash; Петля гистерезиса (динамический метод)
+- [ ] [3.6.1]() &mdash; Спектральный анализ электрических сигналов
