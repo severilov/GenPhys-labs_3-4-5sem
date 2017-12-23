@@ -1,4 +1,4 @@
-# Laboratory work on electricity and magnetism
+# Laboratory works on electricity and magnetism
 ## MIPT, 3 semester 
 - [x]  [3.2.1](https://github.com/cardoholic/GenPhys-labs_3sem/blob/master/3.2.1/3.2.1.pdf) &mdash;  Сдвиг фаз в цепи переменного тока  
 - [x]  [3.2.4](https://github.com/cardoholic/GenPhys-labs_3sem/blob/master/3.2.4/3.2.4.pdf) &mdash;  Свободные колебания в электрическом контуре
